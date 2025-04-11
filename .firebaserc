@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "finalexamstaging-4d06b"
+    "default": "finalexamstaging-4d06b",
+    "staging": "finalexamstaging-4d06b",
+    "production": "finalexamproduction-b1a37"
   }
 }
